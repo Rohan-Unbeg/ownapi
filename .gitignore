@@ -1,0 +1,7 @@
+/node_modules
+/build
+/coverage
+/.pnp
+.png.js
+./env
+/.DS_Store
